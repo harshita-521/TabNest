@@ -1,4 +1,4 @@
-# 🐚 TabNest – Save & Reopen Your Browser Tab Collections
+# TabNest – Save & Reopen Your Browser Tab Collections
 
 **TabNest** is a simple and lightweight Chrome extension that lets you **save your current tabs as a named collection** — and reopen them whenever you want.
 
